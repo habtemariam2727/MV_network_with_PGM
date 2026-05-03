@@ -12,6 +12,14 @@ The network is built from line data, and loads are assigned from node data.
 
 ---
 
+## Get the Project
+
+Clone the repository:
+
+git clone https://github.com/habtemariam2727/MV_network_with_PGM.git  
+cd MV_network_with_PGM
+
+
 ## Setup
 
 Create and activate environment:
